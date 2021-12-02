@@ -1,0 +1,14 @@
+tbody th {
+    background-color: #e8f3f3;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+table {
+	width:100%; 
+}
+tbody td{
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.03em; 
+}
